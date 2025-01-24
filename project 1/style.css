@@ -1,0 +1,11 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.bck{
+    background-image: url("https://ik.imagekit.io/4z8covdo9/MERN-COURSE-ASSETS/TOURISM-PROJECT/sea-ocean");
+    height:100vh;
+    background-repeat: no-repeat;
+    width: 350px;
+    background-size: cover;
+}
